@@ -33,6 +33,16 @@ Esta pack de extensiones proporciona las siguientes extensiones:
 
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - XML Language Support by Red Hat
 
+# Instalacion Node.js
+
+- Instalar [Node.js](https://nodejs.org/es/download/)
+
+- Instalar herramientas de generacion de codigo para extensiones de VSCode
+
+```bash
+$ npm install -g generator-code
+```
+
 # Despliegue
 
 - Clonar el repositorio
