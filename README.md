@@ -3,8 +3,6 @@
 
 > Un pack de extensiones para proyectos SpringBoot en Visual Studio Code.
 
-Esta pack de extensiones proporciona las siguientes extensiones:
-
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
@@ -32,16 +30,6 @@ Esta pack de extensiones proporciona las siguientes extensiones:
 - [Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack) - A collection of extensions for developing Spring Boot applications.
 
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - XML Language Support by Red Hat
-
-# Instalacion Node.js
-
-- Instalar [Node.js](https://nodejs.org/es/download/)
-
-- Instalar herramientas de generacion de codigo para extensiones de VSCode
-
-```bash
-$ npm install -g generator-code
-```
 
 # Despliegue
 
